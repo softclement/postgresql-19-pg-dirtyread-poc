@@ -740,9 +740,3 @@ podman rm -f "$PG_CT" && rm -rf "$POC_DIR"
 ```
 
 ---
-
-## 12. References
-
-- Upstream repo: https://github.com/df7cb/pg_dirtyread
-- Upstream releases: https://github.com/df7cb/pg_dirtyread/releases
-- PostgreSQL docs: `pageinspect`, routine vacuuming, `HeapTupleSatisfiesVacuum` concepts
